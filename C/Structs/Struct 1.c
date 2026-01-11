@@ -13,7 +13,7 @@ struct epafi{
 
 int main()
 {
-	struct epafi*pinakas;
+	struct epafi *pinakas;
 	int i,N;
 	
 	//1.Eisagwgh ths diastashs tou pinaka//
